@@ -1,0 +1,27 @@
+{
+  "name": "2021-node-peerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-types": "^6.26.0",
+    "cross-blob": "^2.0.0",
+    "eventemitter3": "^4.0.7",
+    "filereader": "^0.10.3",
+    "get-browser-rtc": "^1.1.0",
+    "node-fetch": "^2.6.1",
+    "ns-binarypack": "^0.0.5",
+    "peerjs-js-binarypack": "^1.0.1",
+    "read-blob": "^1.1.2",
+    "wrtc": "^0.4.7",
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {
+    "tape": "^5.2.2"
+  }
+}
